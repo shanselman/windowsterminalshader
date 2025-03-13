@@ -13,7 +13,7 @@ The featured shader creates a Mandelbrot fractal visualization with smooth color
 
 ## Credits
 
-This project was written by Claude and Scott. Mark Russ was also there. (100% THE IDEA MAN)
+This project was written by Claude and Scott. Mark Russinovich was also there. (100% THE IDEA MAN)
 
 ## Citations
 
